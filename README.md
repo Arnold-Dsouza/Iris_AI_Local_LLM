@@ -1,6 +1,6 @@
 # Iris - Your AI Voice Assistant 🎙️✨
 
-![Iris Voice Assistant Preview](/public/)
+![Iris Voice Assistant Preview](/public/image.png)
 
 ## 🌟 Overview
 
